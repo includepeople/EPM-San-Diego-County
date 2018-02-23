@@ -1,3 +1,5 @@
-# Welcome
+# Hello, San Diegans
 
-What are the most important public meetings for residents in San Diego County? Please check out the [Issues](https://github.com/includepeople/EPM-San-Diego-County/issues) section to share your ideas!
+### Q: What are the most important public meetings in San Diego County?
+
+### A: Please check out the [Issues](https://github.com/includepeople/EPM-San-Diego-County/issues) section to share your ideas!
